@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Syed Muhammad Izaan</h1>
-![developerImg](https://github.com/user-attachments/assets/d3bb7056-f336-42ac-a0de-00797ef4a3f5)
+![developerImg](<img src="https://github.com/user-attachments/assets/d3bb7056-f336-42ac-a0de-00797ef4a3f5" />)
 
 <h3 align="center">A passionate Mern Stack developer from Pakistan</h3>
 
