@@ -1,7 +1,7 @@
 # Izaan
 
 <h1 align="center">Hi 👋, I'm Syed Muhammad Izaan</h1>
-<img width="500px" height="500px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.devlane.com%2Fblog%2Fflutter-create-beautiful-native-apps-in-record-time&psig=AOvVaw2dgPjyykc-I_uLDFEhC6ZJ&ust=1730382871651000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLiH1dagtokDFQAAAAAdAAAAABAW" />
+<img width="500px" height="500px" src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.devlane.com%2Fblog%2Fflutter-create-beautiful-native-apps-in-record-time&psig=AOvVaw2dgPjyykc-I_uLDFEhC6ZJ&ust=1730382871651000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLiH1dagtokDFQAAAAAdAAAAABAW](https://cdn.prod.website-files.com/65bd01fbefb223c77ff70cf3/65d6159e7bf08ce68a22fbd0_62430a051e734d35fa9f3e0b_WLSSmhPWPsTOUHVemfC4VPHDMFRtjCUIbBGwOgt0NR93B_jx08Rj_7MD0K4cqeRlT4eiFJD1S4_FK4QrQzXDcsw-WHR5epdjl3oWfkTekDpjNlWYFNJ-yaF6K9Rg2ApEZQrwLqcc.gif)" />
 <h3 align="center">A passionate Mern Stack developer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syedmuhammadizaan&label=Profile%20views&color=0e75b6&style=flat" alt="syedmuhammadizaan" /> </p>
