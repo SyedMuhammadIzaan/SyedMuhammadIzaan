@@ -1,13 +1,13 @@
 
 <h1 align="center">Hi 👋, I'm Syed Muhammad Izaan</h1>
 <img src="https://github.com/user-attachments/assets/d3bb7056-f336-42ac-a0de-00797ef4a3f5" />
-<h3 align="center">A passionate Mern Stack developer from Pakistan</h3>
+<h3 align="center">A passionate MERN Stack Developer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=izaan&label=Profile%20views&color=0e75b6&style=flat" alt="izaan" /> </p>
 
 - 🌱 I’m currently learning **Typescript**
 
-- 💬 Ask me about **react node.js express.js**
+- 💬 Ask me about **react.js node.js express.js**
 
 - 📫 How to reach me **izaanfaisal2001@gmail.com**
 
